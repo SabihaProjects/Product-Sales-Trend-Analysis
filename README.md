@@ -1,7 +1,5 @@
 # Product-Sales-Trend-Analysis
-To showcase skills in time-series analysis, data modeling, visualization, and business insights using Power BI.
-# Product Sales Trend Analysis 
-
+To showcase skills in time-series analysis, data modeling, visualization, and business insights using Power BI. 
 This project visualizes monthly sales trends for Product A and Product B. 
 It focuses on comparing performance, detecting seasonal trends, and enabling 
 data-driven planning for sales and marketing strategies.
